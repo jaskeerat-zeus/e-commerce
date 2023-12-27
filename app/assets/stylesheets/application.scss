@@ -1,0 +1,13 @@
+// Vendor
+@import "bootstrap-sprockets";
+@import "bootstrap";
+// @import "font-awesome-sass";
+// @import "font-awesome-sprockets";
+// @import "font-awesome";
+// App
+@import "products";
+
+// Global
+body {
+  padding-top: 70px;
+}
